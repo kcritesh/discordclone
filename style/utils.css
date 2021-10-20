@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.primary{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    padding: 10px 0;
+}
+
+.secondary{
+    color: #b5b8bb;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
